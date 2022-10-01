@@ -8,13 +8,13 @@ body{
 }
 .bg-pattern-top{
   position: absolute;
-  top: -50%;
+  top: -100%;
   left: -20%;
   z-index: -1;
 }
 .bg-pattern-bottom{
   position: absolute;
-  bottom: -50%;
+  bottom: -100%;
   right: -20%;
   z-index: -1;
 }
